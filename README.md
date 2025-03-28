@@ -1,5 +1,5 @@
 # Strategic-Merge-in-OTT-Domain
-Dashboard Link: https://app.powerbi.com/links/4aaOdOPF-a?ctid=14e27b4c-6038-4467-a415-d5077087d0db&pbi_source=linkShare
+Dashboard Link: [ https://app.powerbi.com/links/4aaOdOPF-a?ctid=14e27b4c-6038-4467-a415-d5077087d0db&pbi_source=linkShare](https://app.powerbi.com/reportEmbed?reportId=b9007d3c-7c7d-421d-8031-06fb44bfac40)
 Presentation Link: https://youtu.be/s5Hv21bIzbo 
 # 📌 Project Overview
 Lio, a leading telecom provider in India, is planning a strategic merger with Jotstar, one of the country’s top streaming platforms. This partnership aims to redefine digital entertainment by leveraging LioCinema’s vast subscriber base and Jotstar’s diverse content library.
