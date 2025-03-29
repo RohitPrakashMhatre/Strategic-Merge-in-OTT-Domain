@@ -1,3 +1,5 @@
+# Watched time Analysis
+  
 with watched_hrs as (
 SELECT user_id , device_type,total_watch_time_mins , (total_watch_time_mins/ 60) as hrs
 FROM content_consumption )
